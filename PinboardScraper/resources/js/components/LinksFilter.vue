@@ -21,7 +21,7 @@ export default {
     data() {
         return {
             tags: ['laravel', 'vue', 'vue.js', 'php', 'api'],
-            selectedTags: [], /
+            selectedTags: [],
             links: [], 
         };
     },
